@@ -2,6 +2,9 @@
 bootstrap from 11th May 2021
 
 ## How to use this bootstrap?
+
+Ensure you have `txindex=1` in your `newyorkcoin.conf` file 
+
 * To use this bootstrap, simply download this repo, extract it 
 * Navigate to `11.05.2021`
 * You will see several rar files named `bootstrap.part0001.rar`,`bootstrap.part0002.rar`,`bootstrap.part0003.rar`,`bootstrap.part0004.rar` ect
